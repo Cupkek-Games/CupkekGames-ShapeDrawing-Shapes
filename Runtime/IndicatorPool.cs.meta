@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5d74b5e362c3435458007af4850032b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _arcRegionPrefab: {instanceID: 0}
+  - _circleRegionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

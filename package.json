@@ -1,0 +1,20 @@
+{
+  "name": "com.cupkekgames.shapedrawing.shapes",
+  "displayName": "CupkekGames ShapeDrawing Shapes",
+  "version": "0.1.0",
+  "author": {
+    "name": "CupkekGames",
+    "url": "https://www.docs.cupkek.games"
+  },
+  "unity": "6000.0",
+  "documentationUrl": "https://docs.cupkek.games/",
+  "description": "Concrete Indicator shapes (Circle, Line, Arc) for com.cupkekgames.shapedrawing, drawn with the Freya Shapes addon.",
+  "keywords": [
+    "Indicator",
+    "Shapes",
+    "Circle",
+    "Line",
+    "CupkekGames"
+  ],
+  "dependencies": {}
+}
